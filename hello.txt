@@ -1,1 +1,3 @@
-Hello Git 
+Hello Git
+
+Learning Git from VS Code
